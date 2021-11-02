@@ -12,7 +12,7 @@
 
 ### Programming Languages
 <img src= "https://user-images.githubusercontent.com/65610526/139871811-4897cda6-d57d-45e7-88ef-8990abf029cc.png" width="50" height="50"> 
-![image](https://user-images.githubusercontent.com/65610526/139871591-ee4662f1-cb95-4fb4-bbfe-04aed8cd36cb.png)
+<img src= "https://user-images.githubusercontent.com/65610526/139871591-ee4662f1-cb95-4fb4-bbfe-04aed8cd36cb.png" width="50" height="50">
 
 
 
