@@ -1,4 +1,4 @@
-### Hello 👋 ! I'm Athanasios!
+### Hello 👋 ! I'm Thanos!
 
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou">
 
