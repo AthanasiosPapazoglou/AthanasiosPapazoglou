@@ -2,6 +2,7 @@
 
 ## A Software Developer from Greece
 
+-🔭 I’m currently developing applications on Dart/Flutter at SmartUp Ltd ![image](https://user-images.githubusercontent.com/65610526/139821204-9387afc3-5903-439e-9763-1703408cd151.png)
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&layout=compact&theme=dracula">
 
