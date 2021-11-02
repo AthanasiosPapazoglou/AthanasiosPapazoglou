@@ -1,6 +1,6 @@
 ### Hello 👋 ! I'm Athanasios!
 
-<img src="https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou"
+<img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou">
 
 <!--
 **AthanasiosPapazoglou/AthanasiosPapazoglou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
