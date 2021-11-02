@@ -1,7 +1,7 @@
 ### Hello 👋 ! I'm Thanos!
 
-<img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=radical">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&layout=compact">
+<img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&layout=compact&theme=dracula">
 
 <!--&theme=THEME_NAME-->
 <!--&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919-->
