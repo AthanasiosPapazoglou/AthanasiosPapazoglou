@@ -1,5 +1,7 @@
 ### Hello 👋 ! I'm Thanos!
 
+## A Software Developer from Greece
+
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&layout=compact&theme=dracula">
 
