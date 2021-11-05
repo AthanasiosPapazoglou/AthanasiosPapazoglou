@@ -17,8 +17,7 @@
 <img src= "https://user-images.githubusercontent.com/65610526/139874025-f7ee04c1-f19b-4e39-bcad-4ac2362b448d.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874238-b5293fd6-13f7-45cf-80b9-48046ed663e4.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874429-7ffb71eb-2022-4974-bae6-e9e2b0905cac.png" width="50" height="50">
 
 ### Back End
-<img src= "https://user-images.githubusercontent.com/65610526/139875389-c92c72de-7373-481a-9114-da000160bfa7.png" width="50" height="50">
-<img src= "https://user-images.githubusercontent.com/65610526/140563676-c228af2a-a388-4bf5-8fb9-540c0cd2f839.png" width="50" height="50">
+<img src= "https://user-images.githubusercontent.com/65610526/139875389-c92c72de-7373-481a-9114-da000160bfa7.png" width="50" height="50"> <img src= "https://user-images.githubusercontent.com/65610526/140563676-c228af2a-a388-4bf5-8fb9-540c0cd2f839.png" width="50" height="50">
 
 
 ### Multimedia
