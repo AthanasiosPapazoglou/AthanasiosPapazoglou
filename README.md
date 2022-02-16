@@ -21,7 +21,8 @@
 
 
 ### Multimedia
-<img src= "https://user-images.githubusercontent.com/65610526/139876896-29741272-b9bd-4fe4-8952-84d50590b54c.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877051-6d76a047-bd19-4a45-9f90-97a865ce49fc.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877281-3daa3321-78dd-4904-a8aa-adf0f11baf79.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877492-7bd1b514-4e56-4ba3-b360-3f9fd4b46bc9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877689-e4d1483d-6c2a-452c-a23d-4d86c17b2352.png" width="50" height="50">
+<img src= "https://user-images.githubusercontent.com/65610526/139876896-29741272-b9bd-4fe4-8952-84d50590b54c.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877051-6d76a047-bd19-4a45-9f90-97a865ce49fc.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877281-3daa3321-78dd-4904-a8aa-adf0f11baf79.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877492-7bd1b514-4e56-4ba3-b360-3f9fd4b46bc9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877689-e4d1483d-6c2a-452c-a23d-4d86c17b2352.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/154285809-8a9a3532-afc9-47aa-8189-a2b7ed38a60b.png" width="50" height="50">
+
 
 
 
