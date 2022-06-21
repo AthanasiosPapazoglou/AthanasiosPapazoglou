@@ -3,8 +3,7 @@
 ## A Software Developer from Greece
 
 - <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15"> Working Full-Time as a Front-End Flutter Mobile Developer at **[Smartup Ltd.](https://smartupweb.com/)**
-- <img src=![verify](https://user-images.githubusercontent.com/65610526/174789877-6bb6c502-f16f-4497-a5f2-4496d156e049.gif)
- height="15"> Working on personal applications as a Hobby
+- <img src="https://user-images.githubusercontent.com/65610526/174789877-6bb6c502-f16f-4497-a5f2-4496d156e049.gif" height="15"> Working on personal applications and learning IT technologies as a Hobby
 
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&layout=compact&theme=dracula">
