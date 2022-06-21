@@ -12,6 +12,9 @@
 ---
 
 <p align="center">
+  <i> Socials & More </i>
+
+<p align="center">
     <a href="https://www.linkedin.com/in/athanasios-papazoglou-89706b192/" alt="LinkedIn"><img src="https://user-images.githubusercontent.com/48293545/158461410-b3eac57a-095f-4cc8-8fa4-917542d71f39.svg" height="18"></a> 	&nbsp;
     <a href="https://www.instagram.com/thanos_papazoglou_/" alt="My site"><img src="https://user-images.githubusercontent.com/48293545/158462420-85ff7278-8241-4015-a941-9acd1ec5475b.svg" height="18"></a>
   </p>
