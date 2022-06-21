@@ -8,10 +8,13 @@
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
 <!--img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&layout=compact&theme=dracula"-->
 
+<!--
 <details>
   <summary><i>Check the Technologies I work on..</i></summary>
+</details>
+-->
 
-### Programming Languages
+### <img src="https://user-images.githubusercontent.com/65610526/174791656-3aea69da-5f8c-47f0-93a5-ff2a4bd6c19a.gif" height="20" Programming Languages
 <img src= "https://user-images.githubusercontent.com/65610526/139871811-4897cda6-d57d-45e7-88ef-8990abf029cc.png" width="50" height="50">  <img src= "https://user-images.githubusercontent.com/65610526/139871591-ee4662f1-cb95-4fb4-bbfe-04aed8cd36cb.png" width="50" height="50">
 
 ### Front End
@@ -25,8 +28,6 @@
 
 ### Multimedia
 <img src= "https://user-images.githubusercontent.com/65610526/139876896-29741272-b9bd-4fe4-8952-84d50590b54c.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877051-6d76a047-bd19-4a45-9f90-97a865ce49fc.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877281-3daa3321-78dd-4904-a8aa-adf0f11baf79.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877492-7bd1b514-4e56-4ba3-b360-3f9fd4b46bc9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877689-e4d1483d-6c2a-452c-a23d-4d86c17b2352.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/154285809-8a9a3532-afc9-47aa-8189-a2b7ed38a60b.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/154286314-8a2691e6-fa72-4c0e-af8e-95e48815b31d.png" width="50" height="50">
-  
-  </details>
 
 ---
 
