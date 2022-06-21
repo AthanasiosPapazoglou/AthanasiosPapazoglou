@@ -26,7 +26,7 @@
 ### <img src="https://user-images.githubusercontent.com/65610526/174794373-debc214f-c7f8-4517-98de-4f692bc296f3.gif" height="20"> CMS/Low Code Tools
 <img src= "https://user-images.githubusercontent.com/65610526/168073844-0f75ffde-8c1d-4800-a989-5311b27d80b0.jpeg" width="50" height="50"> <img src= "https://user-images.githubusercontent.com/65610526/168075712-a4fa0e84-d8f9-41ac-9db6-d8b85e4751d7.png" width="50" height="50">
 
-### <img src="https://user-images.githubusercontent.com/65610526/174794535-cdcfd380-610d-4d73-8d27-27b81dd11b1d.gif" height="20"> Multimedia
+### <img src="https://user-images.githubusercontent.com/65610526/174794878-61d7a315-d19a-41fb-b626-0b72caa22e49.gif" height="20"> Multimedia
 <img src= "https://user-images.githubusercontent.com/65610526/139876896-29741272-b9bd-4fe4-8952-84d50590b54c.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877051-6d76a047-bd19-4a45-9f90-97a865ce49fc.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877281-3daa3321-78dd-4904-a8aa-adf0f11baf79.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877492-7bd1b514-4e56-4ba3-b360-3f9fd4b46bc9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139877689-e4d1483d-6c2a-452c-a23d-4d86c17b2352.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/154285809-8a9a3532-afc9-47aa-8189-a2b7ed38a60b.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/154286314-8a2691e6-fa72-4c0e-af8e-95e48815b31d.png" width="50" height="50">
 
 ---
@@ -39,7 +39,7 @@
     <a href="https://www.instagram.com/thanos_papazoglou_/" alt="My site"><img src="https://user-images.githubusercontent.com/48293545/158462420-85ff7278-8241-4015-a941-9acd1ec5475b.svg" height="18"></a>
   </p>
   
-  <p align=center><img src="https://user-images.githubusercontent.com/65610526/174794878-61d7a315-d19a-41fb-b626-0b72caa22e49.gif" height="35"></p>
+  <p align=center><img src="https://user-images.githubusercontent.com/65610526/174794535-cdcfd380-610d-4d73-8d27-27b81dd11b1d.gif" height="35"></p>
 
 
 
