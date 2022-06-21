@@ -9,7 +9,7 @@
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&layout=compact&theme=dracula">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniamak&layout=compact&langs_count=8&title_color=C3D1D9&icon_color=FFE964&text_color=C3D1D9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### Programming Languages
 <img src= "https://user-images.githubusercontent.com/65610526/139871811-4897cda6-d57d-45e7-88ef-8990abf029cc.png" width="50" height="50">  <img src= "https://user-images.githubusercontent.com/65610526/139871591-ee4662f1-cb95-4fb4-bbfe-04aed8cd36cb.png" width="50" height="50">
