@@ -3,7 +3,6 @@
 ## A Software Developer from Greece
 
 <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15">
--![image](https://user-images.githubusercontent.com/65610526/139821286-7fc32136-7a9e-40db-babe-0cf58fd63d58.png)
  Currently developing applications in Dart/Flutter at SmartUp Ltd.
  
 -![image](https://user-images.githubusercontent.com/65610526/139821753-1af8fe87-adc7-41db-8412-943ae7040272.png) https://smartupweb.com/el/
