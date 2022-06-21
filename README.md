@@ -11,6 +11,11 @@
 
 ---
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/athanasios-papazoglou-89706b192/" alt="LinkedIn"><img src="https://user-images.githubusercontent.com/48293545/158461410-b3eac57a-095f-4cc8-8fa4-917542d71f39.svg" height="18"></a> 	&nbsp;
+    <a href="https://www.instagram.com/thanos_papazoglou_/" alt="My site"><img src="https://user-images.githubusercontent.com/48293545/158462420-85ff7278-8241-4015-a941-9acd1ec5475b.svg" height="18"></a>
+  </p>
+
 ### Programming Languages
 <img src= "https://user-images.githubusercontent.com/65610526/139871811-4897cda6-d57d-45e7-88ef-8990abf029cc.png" width="50" height="50">  <img src= "https://user-images.githubusercontent.com/65610526/139871591-ee4662f1-cb95-4fb4-bbfe-04aed8cd36cb.png" width="50" height="50">
 
