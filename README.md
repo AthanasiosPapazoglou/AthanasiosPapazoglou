@@ -2,7 +2,7 @@
 
 ## A Software Developer from Greece
 
-- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15"> Working Full-Time as a Front-End Flutter Mobile Developer at **[Blue1 IoT Systems](https://smartupweb.com/)** / **[VieConnect](https://vieconnect.io/en/)**
+- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15"> Working Full-Time as a Front-End Flutter Mobile Developer at **[Blue1 IoT Systems](https://blue1.io/)** / **[VieConnect](https://vieconnect.io/en/)**
 - <img src="https://user-images.githubusercontent.com/65610526/174790440-c608be4d-24e4-4030-b002-c4dca26d4ac8.gif" height="15"> Working on personal applications and learning CS & IT technologies as a Hobby
 
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
