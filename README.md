@@ -41,10 +41,7 @@
   </p>
   
   <p align=center><img src="https://user-images.githubusercontent.com/65610526/174794535-cdcfd380-610d-4d73-8d27-27b81dd11b1d.gif" height="35"></p>
-  
----
-
- <p align=center><img src="https://user-images.githubusercontent.com/65610526/236496127-3fb5589c-4840-43bd-a685-a67e53af5566.svg" </p>
+  <p align=center><img src="https://user-images.githubusercontent.com/65610526/236496127-3fb5589c-4840-43bd-a685-a67e53af5566.svg" </p>
  
 
 
