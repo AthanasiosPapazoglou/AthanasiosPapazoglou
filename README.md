@@ -18,7 +18,7 @@
 <img src= "https://user-images.githubusercontent.com/65610526/139871811-4897cda6-d57d-45e7-88ef-8990abf029cc.png" width="50" height="50">  <img src= "https://user-images.githubusercontent.com/65610526/139871591-ee4662f1-cb95-4fb4-bbfe-04aed8cd36cb.png" width="50" height="50">
 
 ### <img src= "https://user-images.githubusercontent.com/65610526/174792212-886abe57-b02f-4157-aa8c-75f197365cce.png" height="25"> Front End
-<img src= "https://user-images.githubusercontent.com/65610526/139874025-f7ee04c1-f19b-4e39-bcad-4ac2362b448d.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874238-b5293fd6-13f7-45cf-80b9-48046ed663e4.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874429-7ffb71eb-2022-4974-bae6-e9e2b0905cac.png" width="50" height="50">
+<img src= "https://user-images.githubusercontent.com/65610526/139874025-f7ee04c1-f19b-4e39-bcad-4ac2362b448d.png" width="50" height="50"> <img src= "https://github.com/AthanasiosPapazoglou/AthanasiosPapazoglou/assets/65610526/09a5ad72-0d42-4332-b23e-d772696f74ac" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874238-b5293fd6-13f7-45cf-80b9-48046ed663e4.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874429-7ffb71eb-2022-4974-bae6-e9e2b0905cac.png" width="50" height="50">
 
 ### <img src="https://user-images.githubusercontent.com/65610526/174792715-e94e6fd8-6567-4a29-9aeb-f38e344c87c5.gif" height="20"> Back End
 <img src= "https://user-images.githubusercontent.com/65610526/139875389-c92c72de-7373-481a-9114-da000160bfa7.png" width="50" height="50"> <img src= "https://user-images.githubusercontent.com/65610526/140563676-c228af2a-a388-4bf5-8fb9-540c0cd2f839.png" width="50" height="50"> <img src= "https://user-images.githubusercontent.com/65610526/232725040-d4f24bb1-9b9e-4e50-9ed7-2ae974d44fca.png" width="89" height="50">
@@ -42,12 +42,6 @@
   
   <p align=center><img src="https://user-images.githubusercontent.com/65610526/174794535-cdcfd380-610d-4d73-8d27-27b81dd11b1d.gif" height="35"></p>
   <p align=center><img src="https://user-images.githubusercontent.com/65610526/236496127-3fb5589c-4840-43bd-a685-a67e53af5566.svg" </p>
- 
-
-
-
-
-
 
 
 
