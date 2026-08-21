@@ -48,7 +48,7 @@
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/macos/macos-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/macos.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50">
 </p>
 
