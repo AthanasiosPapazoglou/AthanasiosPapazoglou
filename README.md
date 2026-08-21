@@ -6,22 +6,30 @@
 - <img src="https://user-images.githubusercontent.com/65610526/174790440-c608be4d-24e4-4030-b002-c4dca26d4ac8.gif" height="15"> Working on personal applications and learning CS & IT technologies as a Hobby
 
 <img src= "https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&&show_icons=true&theme=dracula">
-<!--img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&&show_icons=true&layout=compact&theme=dracula"-->
 
-<!--
-<details>
-  <summary><i>Check the Technologies I work on..</i></summary>
-</details>
--->
 
 ### <img src="https://user-images.githubusercontent.com/65610526/174791656-3aea69da-5f8c-47f0-93a5-ff2a4bd6c19a.gif" height="20"> Programming Languages
 <img src= "https://user-images.githubusercontent.com/65610526/139871811-4897cda6-d57d-45e7-88ef-8990abf029cc.png" width="50" height="50">  <img src= "https://user-images.githubusercontent.com/65610526/139871591-ee4662f1-cb95-4fb4-bbfe-04aed8cd36cb.png" width="50" height="50">
+
+### 🤖 Agentic Development Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="50" height="50">
+
+### 🖥️ OS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50">
 
 ### <img src= "https://user-images.githubusercontent.com/65610526/174792212-886abe57-b02f-4157-aa8c-75f197365cce.png" height="25"> Front End
 <img src= "https://user-images.githubusercontent.com/65610526/139874025-f7ee04c1-f19b-4e39-bcad-4ac2362b448d.png" width="50" height="50"> <img src= "https://github.com/AthanasiosPapazoglou/AthanasiosPapazoglou/assets/65610526/09a5ad72-0d42-4332-b23e-d772696f74ac" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874238-b5293fd6-13f7-45cf-80b9-48046ed663e4.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/65610526/139874429-7ffb71eb-2022-4974-bae6-e9e2b0905cac.png" width="50" height="50">
 
 ### <img src="https://user-images.githubusercontent.com/65610526/174792715-e94e6fd8-6567-4a29-9aeb-f38e344c87c5.gif" height="20"> Back End
-<img src= "https://user-images.githubusercontent.com/65610526/139875389-c92c72de-7373-481a-9114-da000160bfa7.png" width="50" height="50"> <img src= "https://user-images.githubusercontent.com/65610526/140563676-c228af2a-a388-4bf5-8fb9-540c0cd2f839.png" width="50" height="50"> <img src= "https://user-images.githubusercontent.com/65610526/232725040-d4f24bb1-9b9e-4e50-9ed7-2ae974d44fca.png" width="89" height="50">
+<img src="https://user-images.githubusercontent.com/65610526/139875389-c92c72de-7373-481a-9114-da000160bfa7.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/65610526/140563676-c228af2a-a388-4bf5-8fb9-540c0cd2f839.png" width="50" height="50">
+<img src="https://github.com/AthanasiosPapazoglou/AthanasiosPapazoglou/assets/65610526/232725040-d4f24bb1-9b9e-4e50-9ed7-2ae974d44fca.png" width="89" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50">
 
 ### <img src="https://user-images.githubusercontent.com/65610526/174794373-debc214f-c7f8-4517-98de-4f692bc296f3.gif" height="20"> CMS/Low Code Tools
 <img src= "https://user-images.githubusercontent.com/65610526/168073844-0f75ffde-8c1d-4800-a989-5311b27d80b0.jpeg" width="50" height="50"> <img src= "https://user-images.githubusercontent.com/65610526/168075712-a4fa0e84-d8f9-41ac-9db6-d8b85e4751d7.png" width="50" height="50">
