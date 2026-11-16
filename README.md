@@ -13,15 +13,6 @@
 </pre>
 
 <pre>
-<b>❯ git log --author=thanos --stat</b>
-</pre>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AthanasiosPapazoglou&show_icons=true&hide_border=true&bg_color=11111b&title_color=f5c2e7&icon_color=89b4fa&text_color=cdd6f4&ring_color=a6e3a1" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthanasiosPapazoglou&layout=compact&hide_border=true&bg_color=11111b&title_color=f5c2e7&text_color=cdd6f4&langs_count=6" height="165" alt="Top languages">
-</p>
-
-<pre>
 <b>❯ ./snake --feed=contributions</b>
 </pre>
 
