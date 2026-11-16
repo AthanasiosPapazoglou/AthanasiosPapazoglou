@@ -13,6 +13,14 @@
 </pre>
 
 <pre>
+<b>❯ cat ~/.config/socials.toml</b>
+
+  linkedin  = "<a href="https://www.linkedin.com/in/athanasios-papazoglou-89706b192/">in/athanasios-papazoglou</a>"
+  instagram = "<a href="https://www.instagram.com/thanos_papazoglou_/">@thanos_papazoglou_</a>"
+  location  = "Sønderborg, DK  ⇄  Greece"
+</pre>
+
+<pre>
 <b>❯ ./snake --feed=contributions</b>
 </pre>
 
@@ -21,11 +29,5 @@
 </p>
 
 <pre>
-<b>❯ cat ~/.config/socials.toml</b>
-
-  linkedin  = "<a href="https://www.linkedin.com/in/athanasios-papazoglou-89706b192/">in/athanasios-papazoglou</a>"
-  instagram = "<a href="https://www.instagram.com/thanos_papazoglou_/">@thanos_papazoglou_</a>"
-  location  = "Sønderborg, DK  ⇄  Greece"
-
 <b>❯</b> █
 </pre>
