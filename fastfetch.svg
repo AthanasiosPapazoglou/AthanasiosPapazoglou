@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="531" viewBox="0 0 900 531" role="img" aria-label="fastfetch: thanos@github">
+<title>thanos@github — fastfetch</title>
+<defs>
+  <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+    <feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; fill: #cdd6f4; white-space: pre; }
+  .k { fill: #89b4fa; font-weight: 700; }
+  .u { fill: #f5c2e7; font-weight: 700; }
+  .d { fill: #6c7086; }
+  .g { fill: #a6e3a1; font-weight: 700; }
+  .y { fill: #f9e2af; }
+  .logo { font-weight: 700; }
+  .in { opacity: 0; animation: in .25s ease-out forwards; }
+  .ch { opacity: 0; animation: in .01s linear forwards; }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes in { to { opacity: 1; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .in, .ch { animation: none; opacity: 1; } .cur { animation: none; } }
+</style>
+<rect x="1" y="1" width="898" height="529" rx="12" fill="#11111b" stroke="#313244" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H887 a12 12 0 0 1 12 12 V34 H1 Z" fill="#181825"/>
+<line x1="1" y1="34" x2="899" y2="34" stroke="#313244"/>
+<circle cx="22" cy="17.5" r="6" fill="#f38ba8"/>
+<circle cx="42" cy="17.5" r="6" fill="#f9e2af"/>
+<circle cx="62" cy="17.5" r="6" fill="#a6e3a1"/>
+<text x="450.0" y="22.0" text-anchor="middle" class="d" style="font-size:12px">thanos@github: ~</text>
+<text x="28" y="66"><tspan class="g">thanos@github</tspan> <tspan class="k">~</tspan> <tspan class="u">❯</tspan> <tspan class="ch" style="animation-delay:0.35s">f</tspan><tspan class="ch" style="animation-delay:0.42s">a</tspan><tspan class="ch" style="animation-delay:0.49s">s</tspan><tspan class="ch" style="animation-delay:0.56s">t</tspan><tspan class="ch" style="animation-delay:0.63s">f</tspan><tspan class="ch" style="animation-delay:0.70s">e</tspan><tspan class="ch" style="animation-delay:0.77s">t</tspan><tspan class="ch" style="animation-delay:0.84s">c</tspan><tspan class="ch" style="animation-delay:0.91s">h</tspan></text>
+<g filter="url(#glow)">
+<text x="28" y="104" class="logo in" style="animation-delay:1.33s">        <tspan fill="#8c7b6e">%%</tspan>    <tspan fill="#8c7b6e">%%</tspan><tspan fill="#c9b4a5">****</tspan>  <tspan fill="#c9b4a5">**</tspan>  <tspan fill="#8c7b6e">%%</tspan>  <tspan fill="#c9b4a5">**</tspan>    </text>
+<text x="28" y="123" class="logo in" style="animation-delay:1.37s">      <tspan fill="#8c7b6e">%%%%%%%%%%%%%%</tspan><tspan fill="#a8968a">%%</tspan><tspan fill="#8c7b6e">%%%%%%%%</tspan>      </text>
+<text x="28" y="142" class="logo in" style="animation-delay:1.40s">  <tspan fill="#a8968a">%%</tspan><tspan fill="#8c7b6e">%%%%</tspan><tspan fill="#c9b4a5">**</tspan><tspan fill="#8c7b6e">%%%%</tspan><tspan fill="#c9b4a5">**</tspan><tspan fill="#8c7b6e">%%%%%%%%%%</tspan><tspan fill="#c9b4a5">**</tspan><tspan fill="#8c7b6e">%%</tspan>  <tspan fill="#8c7b6e">%%</tspan>  </text>
+<text x="28" y="161" class="logo in" style="animation-delay:1.44s">    <tspan fill="#c9b4a5">****</tspan><tspan fill="#8c7b6e">%%</tspan><tspan fill="#c9b4a5">**</tspan><tspan fill="#8c7b6e">%%%%</tspan><tspan fill="#c9b4a5">****</tspan><tspan fill="#f0c9a5">==</tspan><tspan fill="#8c7b6e">%%%%%%</tspan><tspan fill="#a8968a">%%</tspan><tspan fill="#8c7b6e">%%</tspan>    </text>
+<text x="28" y="180" class="logo in" style="animation-delay:1.47s"><tspan fill="#a8968a">%%</tspan>  <tspan fill="#a8968a">%%</tspan><tspan fill="#8c7b6e">%%%%</tspan><tspan fill="#a8968a">%%</tspan><tspan fill="#f0c9a5">==</tspan><tspan fill="#8c7b6e">%%</tspan><tspan fill="#f0c9a5">====</tspan><tspan fill="#c9b4a5">**</tspan><tspan fill="#f0c9a5">======</tspan><tspan fill="#8c7b6e">%%%%%%</tspan>  </text>
+<text x="28" y="199" class="logo in" style="animation-delay:1.51s">  <tspan fill="#8c7b6e">%%%%%%</tspan><tspan fill="#f0c9a5">==================</tspan><tspan fill="#c9b4a5">**</tspan><tspan fill="#f0c9a5">==</tspan><tspan fill="#8c7b6e">%%</tspan>    </text>
+<text x="28" y="218" class="logo in" style="animation-delay:1.55s">    <tspan fill="#7f849c">############</tspan><tspan fill="#f0c9a5">====</tspan><tspan fill="#7f849c">############</tspan>    </text>
+<text x="28" y="237" class="logo in" style="animation-delay:1.58s">  <tspan fill="#7f849c">####</tspan><tspan fill="#ffffff">@@@@</tspan><tspan fill="#7f849c">############</tspan><tspan fill="#ffffff">@@@@</tspan><tspan fill="#7f849c">########</tspan>  </text>
+<text x="28" y="256" class="logo in" style="animation-delay:1.62s">  <tspan fill="#f0c9a5">==</tspan><tspan fill="#7f849c">##</tspan><tspan fill="#ffffff">@@@@</tspan><tspan fill="#7f849c">######</tspan><tspan fill="#f0c9a5">====</tspan><tspan fill="#7f849c">##</tspan><tspan fill="#ffffff">@@@@</tspan><tspan fill="#7f849c">######</tspan><tspan fill="#f0c9a5">==</tspan>  </text>
+<text x="28" y="275" class="logo in" style="animation-delay:1.65s">  <tspan fill="#f0c9a5">==</tspan><tspan fill="#7f849c">##</tspan><tspan fill="#ffffff">@@@@@@@@</tspan><tspan fill="#7f849c">##</tspan><tspan fill="#f0c9a5">====</tspan><tspan fill="#7f849c">##</tspan><tspan fill="#ffffff">@@@@@@@@</tspan><tspan fill="#7f849c">##</tspan><tspan fill="#f0c9a5">==</tspan>  </text>
+<text x="28" y="294" class="logo in" style="animation-delay:1.69s">    <tspan fill="#7f849c">############</tspan><tspan fill="#f0c9a5">====</tspan><tspan fill="#7f849c">############</tspan>    </text>
+<text x="28" y="313" class="logo in" style="animation-delay:1.73s">    <tspan fill="#c99f80">------------</tspan><tspan fill="#f0c9a5">====</tspan><tspan fill="#c99f80">------------</tspan>    </text>
+<text x="28" y="332" class="logo in" style="animation-delay:1.76s">    <tspan fill="#f0c9a5">====</tspan><tspan fill="#7f849c">####</tspan><tspan fill="#f0c9a5">====================</tspan>    </text>
+<text x="28" y="351" class="logo in" style="animation-delay:1.80s">      <tspan fill="#f0c9a5">========================</tspan>      </text>
+<text x="28" y="370" class="logo in" style="animation-delay:1.83s">            <tspan fill="#7f849c">##</tspan><tspan fill="#f0c9a5">========</tspan><tspan fill="#7f849c">##</tspan>            </text>
+<text x="28" y="389" class="logo in" style="animation-delay:1.87s">          <tspan fill="#7f849c">####</tspan><tspan fill="#f0c9a5">========</tspan><tspan fill="#7f849c">####</tspan>          </text>
+<text x="28" y="408" class="logo in" style="animation-delay:1.91s">      <tspan fill="#8c7b6e">%%%%</tspan><tspan fill="#a8968a">%%</tspan><tspan fill="#7f849c">####</tspan><tspan fill="#f0c9a5">====</tspan><tspan fill="#7f849c">####</tspan><tspan fill="#a8968a">%%</tspan><tspan fill="#8c7b6e">%%%%</tspan>      </text>
+<text x="28" y="427" class="logo in" style="animation-delay:1.94s">    <tspan fill="#8c7b6e">%%</tspan><tspan fill="#a8968a">%%%%%%%%</tspan><tspan fill="#7f849c">########</tspan><tspan fill="#a8968a">%%%%%%%%</tspan><tspan fill="#8c7b6e">%%</tspan>    </text>
+<text x="28" y="446" class="logo in" style="animation-delay:1.98s">    <tspan fill="#8c7b6e">%%</tspan><tspan fill="#a8968a">%%%%%%%%%%%%%%%%%%%%%%%%</tspan><tspan fill="#8c7b6e">%%</tspan>    </text>
+<text x="28" y="465" class="logo in" style="animation-delay:2.01s">    <tspan fill="#8c7b6e">%%</tspan><tspan fill="#a8968a">%%</tspan><tspan fill="#8c7b6e">%%</tspan><tspan fill="#a8968a">%%%%%%%%%%%%%%%%</tspan><tspan fill="#8c7b6e">%%</tspan><tspan fill="#a8968a">%%</tspan><tspan fill="#8c7b6e">%%</tspan>    </text>
+</g>
+<text x="365.2" y="104" class="in" style="animation-delay:1.33s"><tspan class="u">thanos</tspan><tspan class="d">@</tspan><tspan class="u">github</tspan></text>
+<text x="365.2" y="123" class="in" style="animation-delay:1.39s"><tspan class="d">-------------</tspan></text>
+<text x="365.2" y="142" class="in" style="animation-delay:1.45s"><tspan class="k">Version</tspan><tspan class="d">:</tspan> Fullstack Software Engineer</text>
+<text x="365.2" y="161" class="in" style="animation-delay:1.51s"><tspan class="k">License</tspan><tspan class="d">:</tspan> B.Sc Applied Informatics @ UoMacedonia</text>
+<text x="365.2" y="180" class="in" style="animation-delay:1.57s"><tspan class="k">OS</tspan><tspan class="d">:</tspan> Macintosh, Ubuntu, NixOS, Windows 10/11</text>
+<text x="365.2" y="199" class="in" style="animation-delay:1.63s"><tspan class="k">Uptime</tspan><tspan class="d">:</tspan> 31 years</text>
+<text x="365.2" y="218" class="in" style="animation-delay:1.69s"><tspan class="k">Locale</tspan><tspan class="d">:</tspan> el_GR.UTF-8 -&gt; da_DK.UTF-8</text>
+<text x="365.2" y="237" class="in" style="animation-delay:1.75s"><tspan class="k">Packages</tspan><tspan class="d">:</tspan> 35 (git)</text>
+<text x="365.2" y="256" class="in" style="animation-delay:1.81s"><tspan class="k">Shell</tspan><tspan class="d">:</tspan> zsh</text>
+<text x="365.2" y="275" class="in" style="animation-delay:1.87s"><tspan class="k">Langs</tspan><tspan class="d">:</tspan> Dart, TypeScript, JavaScript, Swift, Kotlin, C#</text>
+<text x="365.2" y="294" class="in" style="animation-delay:1.93s"><tspan class="k">Frontend</tspan><tspan class="d">:</tspan> Flutter, React, React Native, Next.js</text>
+<text x="365.2" y="313" class="in" style="animation-delay:1.99s"><tspan class="k">Backend</tspan><tspan class="d">:</tspan> Node.js, Firebase, Supabase, PostgreSQL</text>
+<text x="365.2" y="332" class="in" style="animation-delay:2.05s"><tspan class="k">Agentic</tspan><tspan class="d">:</tspan> Claude Code, GitHub Copilot</text>
+<text x="365.2" y="351" class="in" style="animation-delay:2.11s"><tspan class="k">IDE</tspan><tspan class="d">:</tspan> VS Code, Android Studio, Cursor, JetBrains, Vim</text>
+<text x="365.2" y="370" class="in" style="animation-delay:2.17s"><tspan class="k">CPU</tspan><tspan class="d">:</tspan> Caffeine (8) @ 4.20 GHz</text>
+<text x="365.2" y="389" class="in" style="animation-delay:2.23s"><tspan class="k">RAM</tspan><tspan class="d">:</tspan> Stolen by Sam</text>
+<text x="365.2" y="408" class="in" style="animation-delay:2.29s"><tspan class="k">Gravity</tspan><tspan class="d">:</tspan> Video Games, Automations, Integrated Systems</text>
+<g class="in" style="animation-delay:2.41s">
+<rect x="365.2" y="433" width="25.3" height="17" fill="#45475a"/>
+<rect x="390.5" y="433" width="25.3" height="17" fill="#f38ba8"/>
+<rect x="415.8" y="433" width="25.3" height="17" fill="#a6e3a1"/>
+<rect x="441.1" y="433" width="25.3" height="17" fill="#f9e2af"/>
+<rect x="466.4" y="433" width="25.3" height="17" fill="#89b4fa"/>
+<rect x="491.6" y="433" width="25.3" height="17" fill="#f5c2e7"/>
+<rect x="516.9" y="433" width="25.3" height="17" fill="#94e2d5"/>
+<rect x="542.2" y="433" width="25.3" height="17" fill="#bac2de"/>
+</g>
+<g class="in" style="animation-delay:2.47s">
+<rect x="365.2" y="452" width="25.3" height="17" fill="#585b70"/>
+<rect x="390.5" y="452" width="25.3" height="17" fill="#f7a1bb"/>
+<rect x="415.8" y="452" width="25.3" height="17" fill="#bdf0b8"/>
+<rect x="441.1" y="452" width="25.3" height="17" fill="#fbeac2"/>
+<rect x="466.4" y="452" width="25.3" height="17" fill="#a5c6fb"/>
+<rect x="491.6" y="452" width="25.3" height="17" fill="#f8d4ee"/>
+<rect x="516.9" y="452" width="25.3" height="17" fill="#aff0e6"/>
+<rect x="542.2" y="452" width="25.3" height="17" fill="#cdd6f4"/>
+</g>
+<text x="28" y="503" class="in" style="animation-delay:2.73s"><tspan class="g">thanos@github</tspan> <tspan class="k">~</tspan> <tspan class="u">❯</tspan> <tspan class="cur">█</tspan></text>
+</svg>
