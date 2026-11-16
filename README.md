@@ -22,6 +22,14 @@
 </p>
 
 <pre>
+<b>❯ ./snake --feed=contributions</b>
+</pre>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AthanasiosPapazoglou/AthanasiosPapazoglou/output/github-snake-dark.svg" alt="Snake eating my GitHub contribution graph" width="100%">
+</p>
+
+<pre>
 <b>❯ cat ~/.config/socials.toml</b>
 
   linkedin  = "<a href="https://www.linkedin.com/in/athanasios-papazoglou-89706b192/">in/athanasios-papazoglou</a>"
