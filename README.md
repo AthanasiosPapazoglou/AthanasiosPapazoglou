@@ -13,25 +13,6 @@
 </pre>
 
 <pre>
-<b>❯ open ~/projects/scrapyard_derby --preview</b>
-
-  <a href="https://github.com/AthanasiosPapazoglou/scrapyard_derby">scrapyard_derby</a> — a physics-driven, one-button downhill game.
-  spin, land on your feet, bounce higher, and see how far your robot
-  gets before it falls apart.
-
-  stack: flutter · flame · forge2d (box2d) · flame_audio
-</pre>
-
-<p align="center">
-  <a href="https://github.com/AthanasiosPapazoglou/scrapyard_derby"><img src="https://raw.githubusercontent.com/AthanasiosPapazoglou/scrapyard_derby/HEAD/docs/images/menu.jpg" alt="Scrapyard Derby main menu" width="49%"></a>
-  <a href="https://github.com/AthanasiosPapazoglou/scrapyard_derby"><img src="https://raw.githubusercontent.com/AthanasiosPapazoglou/scrapyard_derby/HEAD/docs/images/cinder-flats.jpg" alt="Gameplay on Cinder Flats" width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/AthanasiosPapazoglou/scrapyard_derby"><img src="https://raw.githubusercontent.com/AthanasiosPapazoglou/scrapyard_derby/HEAD/docs/images/workshop.jpg" alt="Workshop: upgrading the robot's parts" width="49%"></a>
-  <a href="https://github.com/AthanasiosPapazoglou/scrapyard_derby"><img src="https://raw.githubusercontent.com/AthanasiosPapazoglou/scrapyard_derby/HEAD/docs/images/obsidian-maw.jpg" alt="Gameplay on Obsidian Maw" width="49%"></a>
-</p>
-
-<pre>
 <b>❯ ./snake --feed=contributions</b>
 </pre>
 
